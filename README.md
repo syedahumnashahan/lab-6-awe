@@ -83,4 +83,4 @@ http://localhost:3000
 
 ## Conclusion
 This project demonstrates the combined use of Context API and Redux for state management in React.js. Context API manages user information and application themes, while Redux manages the counter state.
->>>>>>> 1ac5ea73c7b87530f7ff739bd6aca3d1c0b558e5
+
